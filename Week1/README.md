@@ -1,3 +1,3 @@
-You can access my code in the phy file
-I this week I have created a few basic progrmas in Python.
-I still need to finish some Exercises.
+You can access my code in the ipynb file /n
+I this week I have created a few basic progrmas in Python. /n
+I still need to finish some Exercises. /n
